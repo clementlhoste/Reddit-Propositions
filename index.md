@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+## Testing Propositions from Twitter on Reddit
 
-You can use the [editor on GitHub](https://github.com/clementlhoste/Reddit-Propositions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
+
+### 20/80 rule of content generation
+
+### Sociability
+
+### Circadian Rythms
+
+### Attention and Productivity
+
+### Conclusion
+
+_You can use the [editor on GitHub](https://github.com/clementlhoste/Reddit-Propositions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files._
+
+_Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files._
 
 ### Markdown
 
