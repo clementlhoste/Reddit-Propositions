@@ -1,17 +1,14 @@
-## Testing Propositions from Twitter on Reddit
+## Introduction
 
+## 20/80 rule of content generation
 
-### Introduction
+## Sociability
 
-### 20/80 rule of content generation
+## Circadian Rythms
 
-### Sociability
+## Attention and Productivity
 
-### Circadian Rythms
-
-### Attention and Productivity
-
-### Conclusion
+## Conclusion
 
 _You can use the [editor on GitHub](https://github.com/clementlhoste/Reddit-Propositions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files._
 
